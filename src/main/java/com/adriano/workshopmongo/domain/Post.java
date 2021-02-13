@@ -13,10 +13,6 @@ import com.adriano.workshopmongo.dto.CommentDTO;
 
 @Document
 public class Post implements Serializable {
-
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	
 	@Id
